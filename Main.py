@@ -52,19 +52,19 @@ def main():
             if selected_student_id is None:
                 print("Please register or select a student first.")
             else:
-                print("Weekly record module will be connected here.")
+                print("Weekly record module ")
 
         elif choice == 6:
             if selected_student_id is None:
                 print("Please select a student first.")
             else:
-                print("Record viewing module will be connected here.")
+                print("Record viewing module")
 
         elif choice == 7:
             if selected_student_id is None:
                 print("Please select a student first.")
             else:
-                print("Wellness reporting module will be connected here.")
+                print("Wellness reporting module")
 
         elif choice == 8:
             print("Thank you for using Student Wellness Journal!")
